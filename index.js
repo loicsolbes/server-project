@@ -1,6 +1,6 @@
-//Server code
+//Server side
 
-const { request, response } = require('express');
+//const { request, response } = require('express');
 
 const express = require('express');
 const Datastore = require('nedb')
