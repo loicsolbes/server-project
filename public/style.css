@@ -1,0 +1,10 @@
+.container {
+    margin-bottom: 1rem;
+    background-color: whitesmoke;
+    border: 2px solid black;
+}
+
+#map {
+    height: 300px;
+    margin: 1rem;
+}
